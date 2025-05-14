@@ -1,1 +1,1 @@
-# beauty-salon
+https://beauty-salon-demo.github.io/
